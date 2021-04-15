@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1618402762,,"q"
+|2,0,1618466612,,"q"
 :wq!
-|2,0,1618401500,,"wq!"
+|2,0,1618463873,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -30,238 +30,242 @@
 |3,1,36,0,1,0,1618200638,"g"
 
 # File marks:
-'0  1  0  ~/leads.csv
-|4,48,1,0,1618402762,"~/leads.csv"
-'1  63  24  ~/1.py
-|4,49,63,24,1618401500,"~/1.py"
-'2  14  32  ~/1.py
-|4,50,14,32,1618401422,"~/1.py"
-'3  14  32  ~/1.py
-|4,51,14,32,1618401422,"~/1.py"
-'4  7  28  ~/1.py
-|4,52,7,28,1618401394,"~/1.py"
-'5  7  28  ~/1.py
-|4,53,7,28,1618401394,"~/1.py"
-'6  7  28  ~/1.py
-|4,54,7,28,1618401394,"~/1.py"
-'7  7  28  ~/1.py
-|4,55,7,28,1618401394,"~/1.py"
-'8  68  0  ~/1.py
-|4,56,68,0,1618401303,"~/1.py"
-'9  69  0  ~/1.py
-|4,57,69,0,1618401303,"~/1.py"
+'0  34  7  ~/2.py
+|4,48,34,7,1618466612,"~/2.py"
+'1  25  8  ~/2.py
+|4,49,25,8,1618463873,"~/2.py"
+'2  25  8  ~/2.py
+|4,50,25,8,1618463873,"~/2.py"
+'3  61  24  ~/2.py
+|4,51,61,24,1618463810,"~/2.py"
+'4  61  24  ~/2.py
+|4,52,61,24,1618463810,"~/2.py"
+'5  61  24  ~/2.py
+|4,53,61,24,1618463810,"~/2.py"
+'6  61  24  ~/2.py
+|4,54,61,24,1618463810,"~/2.py"
+'7  25  11  ~/1.py
+|4,55,25,11,1618463709,"~/1.py"
+'8  63  24  ~/1.py
+|4,56,63,24,1618463595,"~/1.py"
+'9  63  24  ~/1.py
+|4,57,63,24,1618463595,"~/1.py"
 
 # Jumplist (newest first):
+-'  34  7  ~/2.py
+|4,39,34,7,1618466612,"~/2.py"
+-'  25  8  ~/2.py
+|4,39,25,8,1618466413,"~/2.py"
+-'  25  8  ~/2.py
+|4,39,25,8,1618463873,"~/2.py"
+-'  61  24  ~/2.py
+|4,39,61,24,1618463850,"~/2.py"
+-'  61  24  ~/2.py
+|4,39,61,24,1618463850,"~/2.py"
+-'  61  24  ~/2.py
+|4,39,61,24,1618463810,"~/2.py"
+-'  1  0  ~/2.py
+|4,39,1,0,1618463718,"~/2.py"
+-'  1  0  ~/2.py
+|4,39,1,0,1618463718,"~/2.py"
+-'  1  0  ~/2.py
+|4,39,1,0,1618463718,"~/2.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  25  11  ~/1.py
+|4,39,25,11,1618463709,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463611,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463595,"~/1.py"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618463506,"~/leads.csv"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
+-'  63  24  ~/1.py
+|4,39,63,24,1618463486,"~/1.py"
 -'  1  0  ~/leads.csv
 |4,39,1,0,1618402762,"~/leads.csv"
--'  63  24  ~/1.py
-|4,39,63,24,1618401500,"~/1.py"
--'  63  24  ~/1.py
-|4,39,63,24,1618401500,"~/1.py"
--'  14  32  ~/1.py
-|4,39,14,32,1618401426,"~/1.py"
--'  14  32  ~/1.py
-|4,39,14,32,1618401426,"~/1.py"
--'  14  32  ~/1.py
-|4,39,14,32,1618401422,"~/1.py"
--'  14  32  ~/1.py
-|4,39,14,32,1618401422,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401402,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401402,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401402,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401402,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401394,"~/1.py"
--'  7  28  ~/1.py
-|4,39,7,28,1618401394,"~/1.py"
--'  68  0  ~/1.py
-|4,39,68,0,1618401370,"~/1.py"
--'  69  0  ~/1.py
-|4,39,69,0,1618401370,"~/1.py"
--'  80  0  ~/1.py
-|4,39,80,0,1618401370,"~/1.py"
--'  81  0  ~/1.py
-|4,39,81,0,1618401370,"~/1.py"
--'  68  0  ~/1.py
-|4,39,68,0,1618401370,"~/1.py"
--'  69  0  ~/1.py
-|4,39,69,0,1618401370,"~/1.py"
--'  80  0  ~/1.py
-|4,39,80,0,1618401370,"~/1.py"
--'  81  0  ~/1.py
-|4,39,81,0,1618401370,"~/1.py"
--'  70  0  ~/1.py
-|4,39,70,0,1618401303,"~/1.py"
--'  81  0  ~/1.py
-|4,39,81,0,1618401303,"~/1.py"
--'  82  0  ~/1.py
-|4,39,82,0,1618401303,"~/1.py"
--'  70  0  ~/1.py
-|4,39,70,0,1618401303,"~/1.py"
--'  81  0  ~/1.py
-|4,39,81,0,1618401303,"~/1.py"
--'  82  0  ~/1.py
-|4,39,82,0,1618401303,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  ~/1.py
-|4,39,1,0,1618401260,"~/1.py"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  1  0  /var/log/new.out.log
-|4,39,1,0,1618201474,"/var/log/new.out.log"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
--'  10  20  /etc/supervisor/conf.d/laxmikant.conf
-|4,39,10,20,1618200759,"/etc/supervisor/conf.d/laxmikant.conf"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
+-'  1  0  ~/leads.csv
+|4,39,1,0,1618402762,"~/leads.csv"
 
 # History of marks within files (newest to oldest):
 
-> ~/leads.csv
-	*	1618402757	0
-	"	1	0
+> ~/2.py
+	*	1618466610	0
+	"	34	7
+	^	34	8
+	.	25	8
+	+	65	41
+	+	25	8
 
 > ~/1.py
-	*	1618401497	0
-	"	63	24
+	*	1618463707	0
+	"	25	11
 	^	63	25
 	.	64	0
 	+	67	42
@@ -278,6 +282,11 @@
 	+	45	0
 	+	63	0
 	+	64	0
+
+> ~/leads.csv
+	*	1618463505	0
+	"	1	0
+	^	1	0
 
 > /var/log/new.out.log
 	*	1618201470	0
